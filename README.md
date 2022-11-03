@@ -1,4 +1,7 @@
 # nIceKDE1
-Icewm KDE theme
+Icewm KDE 1 theme
 
-Work in progress
+November 3, 2022
+* Added some xpm icons
+* Enhanced the toolbar/taskba
+* Fixed clock color problem
